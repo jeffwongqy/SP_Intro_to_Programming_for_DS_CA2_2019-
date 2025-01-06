@@ -1,0 +1,21 @@
+year,disease,prevalence_rate
+1992,Hypertension,22.2
+1992,Diabetes,8.6
+1992,High Total Cholesterol,19.4
+1992,Obesity,5.1
+1992,Daily Smoking,18.3
+1998,Hypertension,27.3
+1998,Diabetes,9
+1998,High Total Cholesterol,25.4
+1998,Obesity,6
+1998,Daily Smoking,15.2
+2004,Hypertension,24.9
+2004,Diabetes,8.2
+2004,High Total Cholesterol,18.7
+2004,Obesity,6.9
+2004,Daily Smoking,12.6
+2010,Hypertension,23.5
+2010,Diabetes,11.3
+2010,High Total Cholesterol,17.4
+2010,Obesity,10.8
+2010,Daily Smoking,14.3

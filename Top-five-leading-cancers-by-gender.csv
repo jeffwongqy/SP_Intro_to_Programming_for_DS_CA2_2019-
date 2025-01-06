@@ -1,0 +1,11 @@
+start_of_period,end_of_period,gender,type_of_cancer,incidence_rate,ranks
+2011,2015,female,breast,65.3,1
+2011,2015,female,colo-rectum,27,2
+2011,2015,female,corpus uteri,15.5,3
+2011,2015,female,lung,15,4
+2011,2015,female,ovary,13,5
+2011,2015,male,colo-rectum,38.6,1
+2011,2015,male,lung,33.2,2
+2011,2015,male,prostate,29.7,3
+2011,2015,male,lymphoid neoplasms,17.6,4
+2011,2015,male,liver,16.8,5
